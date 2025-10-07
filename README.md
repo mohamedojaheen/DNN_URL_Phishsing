@@ -17,8 +17,6 @@ The dataset was collected by **PhishTank Archive**, **MillerSmiles Archive**, an
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Author](#author)
-- [License](#license)
 
 ---
 
